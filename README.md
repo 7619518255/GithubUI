@@ -1,1 +1,3 @@
 # GithubUI
+
+Simple interest calculator 
